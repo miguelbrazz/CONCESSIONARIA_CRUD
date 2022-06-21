@@ -1,0 +1,17 @@
+{
+  "name": "concessionaria",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": [],
+  "author": "miguel",
+  "license": "ISC",
+  "devDependencies": {
+  },
+  "dependencies": {
+    "pg": "^8.7.3"
+  }
+}
